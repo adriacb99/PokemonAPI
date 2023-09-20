@@ -1,0 +1,39 @@
+.cardpage
+{
+    border: 1px solid rgb(161, 161, 161);
+    float: left;
+    width: 225px;
+	height: 350px;
+    margin: 15px;
+    border-radius: 4px;
+    padding: 20px;
+    background-color: white;
+}
+
+img
+{
+    width: 175px;
+	height: 250px;  
+    display: block;
+    margin-left: auto;
+    margin-right: auto; 
+    margin-bottom: 50px;
+}
+
+p
+{
+    text-align: center;
+    font-size: larger;
+}
+
+body
+{
+    background-color: rgb(236, 236, 236);
+}
+
+#demo
+{
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto; 
+}
